@@ -1,3 +1,3 @@
 _apa(){
-    echo apa
+    echo "ini adalah dari apa"
 }
